@@ -1,4 +1,4 @@
-# 🔤 Word Guessing Game (Haskell)
+# 🔤 Word Guessing Game 
 
 ![Haskell](https://img.shields.io/badge/Haskell-Stack/Cabal-5e5086?logo=haskell&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
