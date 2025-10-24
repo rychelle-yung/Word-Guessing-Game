@@ -295,9 +295,3 @@ main =
         case result of
             Left err       -> putStrLn $ "Error: " ++ err
             Right wordsList -> mainMenuLoop (Score (Sum 0)) mempty wordsList
-
-
--- ghci -package directory
--- :set -package random
--- :l app/Main.hs
--- main
